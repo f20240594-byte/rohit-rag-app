@@ -78,7 +78,8 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## Screenshot
 
-data/your_document.pdf.pdf
+<img width="1892" height="837" alt="demo png" src="https://github.com/user-attachments/assets/8f6ead62-ea08-4ef7-8edf-d66a78990233" />
+
 
 ---
 
