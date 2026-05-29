@@ -78,7 +78,7 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## Screenshot
 
-![RAG Chatbot Demo](screenshots/demo.png)
+data/your_document.pdf.pdf
 
 ---
 
